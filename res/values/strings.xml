@@ -2,4 +2,6 @@
 <resources>
     <string name="hello">Hello World, TechTalk!</string>
     <string name="app_name">TechTalk</string>
+    <string name="no_stories">No Stories Yet. Add one!</string>
+    <string name="menu_add">Add Story</string>
 </resources>
